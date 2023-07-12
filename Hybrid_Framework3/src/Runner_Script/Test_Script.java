@@ -11,7 +11,7 @@ import Pom_Script.Pom1;
 
 
 public class Test_Script extends Base_Test
-{
+{    // welcome 
 	@Test
 	public void testcase6() throws InterruptedException 
 	{		
@@ -64,6 +64,6 @@ public class Test_Script extends Base_Test
 		{"sharan@gmail.com","123456"},
 		
 	};*/
-
+// test script completed successfully.
 
 
